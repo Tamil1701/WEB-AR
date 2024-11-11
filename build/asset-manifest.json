@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9697547b.css",
+    "main.js": "/static/js/main.1ce3d6d3.js",
+    "static/media/light_assault_mech.glb": "/static/media/light_assault_mech.149033f01577fe9ee7c5.glb",
+    "static/media/Light_Assault_Mech.usdz": "/static/media/Light_Assault_Mech.5cb40916877ca435ffd0.usdz",
+    "static/media/server_rack.glb": "/static/media/server_rack.d9bdcc96e525cdac81b7.glb",
+    "static/media/bugatti.glb": "/static/media/bugatti.b407a87be43fc8be6d35.glb",
+    "static/media/bugatti.usdz": "/static/media/bugatti.c0a44a0f82b440ac43ca.usdz",
+    "static/media/Server_Rack.usdz": "/static/media/Server_Rack.25e14a28bbb078596740.usdz",
+    "static/media/Server.usdz": "/static/media/Server.ce9bdb79a9373274e6c7.usdz",
+    "static/media/server.glb": "/static/media/server.91d2a2274f27e2736388.glb",
+    "index.html": "/index.html",
+    "main.9697547b.css.map": "/static/css/main.9697547b.css.map",
+    "main.1ce3d6d3.js.map": "/static/js/main.1ce3d6d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9697547b.css",
+    "static/js/main.1ce3d6d3.js"
+  ]
+}
